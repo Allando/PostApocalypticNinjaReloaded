@@ -77,6 +77,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\gravityScript.cs" />
     <Compile Include="Assets\Scripts\playerScript.cs" />
+    <Compile Include="Assets\Scripts\stopWatchScript.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\CircleObject.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\GroupLayer.cs" />
     <Compile Include="Assets\Tiled2Unity\Scripts\Runtime\ImportBehaviour.cs" />

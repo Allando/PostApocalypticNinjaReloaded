@@ -52,11 +52,11 @@ public class playerScript : MonoBehaviour
     {
         //Camera.main.transform.Rotate(new Vector3(0, 0, -90));
 
-        for (var i = 0; i < 450; i += 1 )
-        {
-            Debug.Log("Rotating...");
-            Camera.main.transform.Rotate(new Vector3(0, 0, -90));
-        }
+        //for (var i = 0; i < 450; i += 1 )
+        //{
+        //    Debug.Log("Rotating...");
+        //    Camera.main.transform.Rotate(new Vector3(0, 0, -90));
+        //}
 
         //Camera.main.transform.eulerAngles =
         //    Vector3.Lerp(Camera.main.transform.eulerAngles,

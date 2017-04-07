@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2015
+# Visual Studio 2017
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostApocalypticNinjaReloaded", "PostApocalypticNinjaReloaded.csproj", "{18A5FC8C-FBAA-4A8B-E6E4-E7D2899B10B3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostApocalypticNinjaReloaded.Editor", "PostApocalypticNinjaReloaded.Editor.csproj", "{6D04403B-6A4C-E5CD-4EFB-832621C03326}"
