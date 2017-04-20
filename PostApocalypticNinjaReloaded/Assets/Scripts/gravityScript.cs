@@ -10,7 +10,6 @@ public class gravityScript : playerScript
     // Update is called once per frame
     public void Update()
     {
-
         {
             Debug.Log("Gravity Change Up");
             gravityUp();
